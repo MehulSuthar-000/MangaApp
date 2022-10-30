@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="story">
+        <item>"TBATE Novel"</item>
+        <item>"MUSHOKU TENSEI"</item>
+        <item>SOLO LEVELING"</item>
+        <item>"VAGABOND"</item>
+        <item>"20TH CENTURY BOYS</item>
+        <item>"BERSERK"</item>
+    </string-array>
+</resources>

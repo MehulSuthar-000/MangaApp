@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storyimage">
+        <item><![CDATA[https://static.wikia.nocookie.net/thebate/images/c/c6/Tapas_Novel_Cover.png/revision/latest?cb=20200209071556]]></item>
+        <item><![CDATA[https://novelfree.ml/data/image/44.jpg]]></item>
+        <item><![CDATA[https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Solo_Leveling_Webtoon.png/220px-Solo_Leveling_Webtoon.png]]></item>
+        <item><![CDATA[https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Vagabond_%28manga%29_vol._1.png/220px-Vagabond_%28manga%29_vol._1.png]]></item>
+        <item><![CDATA[https://upload.wikimedia.org/wikipedia/en/e/e2/20thcenturyboys01.jpg]]></item>
+        <item><![CDATA[https://upload.wikimedia.org/wikipedia/en/d/db/GutsBerserk.PNG]]></item>
+    </string-array>
+</resources>
